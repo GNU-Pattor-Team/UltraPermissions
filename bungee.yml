@@ -1,0 +1,5 @@
+name: UltraPermissions
+version: 4.8.9
+build: 96
+main: me.TechsCode.UltraPermissions.base.loader.BungeeLoader
+author: Tech

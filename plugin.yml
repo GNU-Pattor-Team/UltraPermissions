@@ -1,0 +1,10 @@
+name: UltraPermissions
+version: 4.8.9
+author: Tech
+website: UltraPermissions.com
+build: 96
+main: me.TechsCode.UltraPermissions.base.loader.SpigotLoader
+api-version: 1.13
+softdepend: [PlaceholderAPI]
+loadbefore: [Vault]
+load: STARTUP
